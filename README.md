@@ -1,4 +1,4 @@
 # telegram-bot-php
-### A simple bot for Telegram chats...
+### Простой телеграм бот для чатов...
 
-### ***coming soon...***
+### ***скоро...***

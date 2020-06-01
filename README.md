@@ -37,3 +37,7 @@ https://api.telegram.org/bot<BOT_TOKEN>/setWebhook?url=https://<АДРЕС_ХО�
 Меняем в файле `config.inc.php` токен бота:
 
 [![Screenshot 4](https://i.imgur.com/XXn4YUf.png)](https://i.imgur.com/XXn4YUf.png)
+
+---
+
+## Это ещё надо дополнять... :_)
